@@ -32,7 +32,7 @@
   <a href="https://twitter.com/Guuh_882YT">
     <img src="https://img.shields.io/twitter/follow/julioarrudac?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
-  <a href="http://youtube.com/chanel/UC6JuvYDZgOoI83Qp9A8oEQQ?sub_confirmation=1">
+  <a href="http://youtube.com/UC6JuvYDZgOoI83Qp9A8oEQQ?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/views/4BYlkYtHNus?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
 </p>
