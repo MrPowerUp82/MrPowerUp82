@@ -25,6 +25,18 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
+<p align="center">
+  <a href="https://github.com/MrPowerUp82?tab=followers">
+    <img src="https://img.shields.io/github/followers/julioarruda?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="https://twitter.com/Guuh_882YT">
+    <img src="https://img.shields.io/twitter/follow/julioarrudac?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="http://youtube.com/c/UC6JuvYDZgOoI83Qp9A8oEQQ?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/views/4BYlkYtHNus?label=YouTube&logo=YouTube&style=for-the-badge" />
+  </a>
+</p>
+
 
 
 
