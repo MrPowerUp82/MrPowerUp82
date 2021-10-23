@@ -14,7 +14,7 @@
   <strong>Programador Python, PHP e Javascript</strong>
 </center>
 <br />
-<img align="center" alt="GIF" src="https://github.com/MrPowerUp82/MrPowerUp82/main/code.gif?raw=true" width="500" height="320" />
+<img align="center" alt="GIF" src="https://github.com/MrPowerUp82/MrPowerUp82/blob/main/code.gif?raw=true" width="500" height="320" />
 
 **Linguagens e Framework's:**  
   
