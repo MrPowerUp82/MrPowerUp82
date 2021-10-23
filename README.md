@@ -38,15 +38,6 @@
   </a>
 </p>
   <hr/>
-  <p align="left">
-  <!-- YOUTUBE:START -->
-- [Como usar React em um projeto Laravel.](https://www.youtube.com/watch?v=FGm-cnmsLB8)
-- [Como fazer trainer com Python](https://www.youtube.com/watch?v=3VTTSa8w0kA)
-- [Script para pegar innerHTML em python - MrPowerUp](https://www.youtube.com/watch?v=oVNjkKqnkZE)
-- [Script de dump de senhas wifi para o windows](https://www.youtube.com/watch?v=7iuYET_lxrk)
-- [how to recover linux password (debain)/como recuperar a senha do linux(debain)](https://www.youtube.com/watch?v=GWsdYHszsyQ)
-<!-- YOUTUBE:END -->
-  </p>
 </div>
 
 
