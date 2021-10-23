@@ -1,4 +1,5 @@
 ### MrPowerUp
+<div align="center">
 <a href="https://discord.gg/rPfYYFgd">
   <img align="left" alt="MrPowerUp Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -36,7 +37,7 @@
     <img src="https://img.shields.io/youtube/channel/subscribers/UC6JuvYDZgOoI83Qp9A8oEQQ?style=for-the-badge" />
   </a>
 </p>
-
+</div>
 
 
 
