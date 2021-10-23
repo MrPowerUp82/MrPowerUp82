@@ -10,9 +10,9 @@
 </a> -->
 
 <br />
-
-Programador Python, PHP e Javascript
-
+<center>
+**Programador Python, PHP e Javascript**
+</center>
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 **Linguagens e Framework's:**  
