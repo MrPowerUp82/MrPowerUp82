@@ -40,9 +40,8 @@
   <hr/>
 </div>
 <h2>Projetos</h2>
-  [Chat Mobile](https://github.com/MrPowerUp82/chat-mobile)
-  [Pysound](https://github.com/MrPowerUp82/Eel-MusicPlayer-Python)
-  [Filmaria](https://github.com/MrPowerUp82/filmaria-mobile)
-
+<a href="https://github.com/MrPowerUp82/chat-mobile">Chat Mobile</a>
+<a href="https://github.com/MrPowerUp82/Eel-MusicPlayer-Python">Pysound</a>
+<a href="https://github.com/MrPowerUp82/filmaria-mobile">Filmaria</a>
 
 
