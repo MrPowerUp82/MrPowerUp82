@@ -38,6 +38,10 @@
   </a>
 </p>
   <hr/>
+  ### Projetos
+  [Chat Mobile](https://github.com/MrPowerUp82/chat-mobile)
+  [Pysound](https://github.com/MrPowerUp82/Eel-MusicPlayer-Python)
+  [Filmaria](https://github.com/MrPowerUp82/filmaria-mobile)
 </div>
 
 
