@@ -37,11 +37,10 @@
     <img src="https://img.shields.io/youtube/channel/subscribers/UC6JuvYDZgOoI83Qp9A8oEQQ?style=for-the-badge" />
   </a>
 </p>
-  <hr/>
 </div>
 <h2>Projetos</h2>
-<a href="https://github.com/MrPowerUp82/chat-mobile">Chat Mobile</a>
-<a href="https://github.com/MrPowerUp82/Eel-MusicPlayer-Python">Pysound</a>
+<a href="https://github.com/MrPowerUp82/chat-mobile">Chat Mobile</a><br/>
+<a href="https://github.com/MrPowerUp82/Eel-MusicPlayer-Python">Pysound</a><br/>
 <a href="https://github.com/MrPowerUp82/filmaria-mobile">Filmaria</a>
 
 
