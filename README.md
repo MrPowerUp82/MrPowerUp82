@@ -41,7 +41,7 @@
 </div>
 <h2>Projetos</h2>
 <a href="https://github.com/MrPowerUp82/chat-mobile">Chat Mobile</a><br/>
-<a href="https://github.com/MrPowerUp82/hqdragondownload">HQDragon</a><br/>
+<a href="https://github.com/MrPowerUp82/Eel-MusicPlayer-Python">PySound</a><br/>
 <a href="https://github.com/MrPowerUp82/filmaria-mobile">Filmaria</a>
 
 
