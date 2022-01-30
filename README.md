@@ -7,6 +7,9 @@
 <a href="https://twitter.com/Guuh_882YT">
   <img align="left" alt="MrPowerUp | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+  <a href="https://www.youtube.com/channel/UC6JuvYDZgOoI83Qp9A8oEQQ">
+  <img align="left" alt="MrPowerUp | YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+</a>
 <!-- <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> -->
