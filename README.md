@@ -49,7 +49,6 @@
 <a href="https://github.com/MrPowerUp82/hqdragondownload">HQDragonDownload</a><br/>
 <a href="https://github.com/MrPowerUp82/python_itaushopline">Itaú Shopline</a>
 
-<br/>
 <hr/>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=MrPowerUp82&show_icons=true&theme=gotham" alt="MrPowerUp82" />
