@@ -1,4 +1,4 @@
-### MrPowerUp
+## MrPowerUp
 <div>
 <!--<a href="https://discord.gg/rPfYYFgd">
   <img align="left" alt="MrPowerUp Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -16,10 +16,7 @@
   <!--
 <img align="center" alt="GIF" src="https://github.com/MrPowerUp82/MrPowerUp82/blob/main/code.gif?raw=true" width="500" height="320" />
 -->
-  <strong align="left">
-**Linguagens e Framework's:**  
-  </strong>
- <br />
+### **Linguagens e Framework's:**
   
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
