@@ -15,13 +15,16 @@
 </a> -->
 
 <br />
-Programador Python | Javascript
+  <p align="left">
+  Programador Python | Javascript
+  </p>
 <br />
   <!--
 <img align="center" alt="GIF" src="https://github.com/MrPowerUp82/MrPowerUp82/blob/main/code.gif?raw=true" width="500" height="320" />
 -->
-
+  <p align="left">
 **Linguagens e Framework's:**  
+  </p>
   
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -53,6 +56,6 @@ Programador Python | Javascript
 
 <hr/>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=MrPowerUp82&show_icons=true&theme=gotham" alt="MrPowerUp82" />
+<img src="https://github-readme-stats.vercel.app/api?username=MrPowerUp82&show_icons=true&theme=gotham" alt="MrPowerUp82" />
 
 
