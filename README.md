@@ -13,9 +13,6 @@
 <!-- <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> -->
-
-<br />
-<br />
   <!--
 <img align="center" alt="GIF" src="https://github.com/MrPowerUp82/MrPowerUp82/blob/main/code.gif?raw=true" width="500" height="320" />
 -->
