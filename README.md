@@ -15,10 +15,6 @@
 </a> -->
 
 <br />
-  <p align="left">
-  Programador Python | Javascript
-  </p>
-<br />
   <!--
 <img align="center" alt="GIF" src="https://github.com/MrPowerUp82/MrPowerUp82/blob/main/code.gif?raw=true" width="500" height="320" />
 -->
