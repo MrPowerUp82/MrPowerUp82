@@ -11,7 +11,7 @@
   <img align="left" alt="MrPowerUp | YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
     <a href="https://pypi.org/user/MrPowerUp/">
-  <img align="left" alt="MrPowerUp | Pypi" width="22px" src="https://raw.githubusercontent.com/github/explore/666de02829613e0244e9441b114edb85781e972c/topics/pip/pip.png" />
+  <img align="left" alt="MrPowerUp | Pypi" width="22px" src="https://pypi.org/static/images/logo-small.2a411bc6.svg" />
 </a>
 <!-- <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
