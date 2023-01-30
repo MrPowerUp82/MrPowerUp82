@@ -1,9 +1,9 @@
 ## MrPowerUp
 <div>
-<!--<a href="https://discord.gg/rPfYYFgd">
-  <img align="left" alt="MrPowerUp Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://mrpowerup82.github.io/">
+  Portifólio
 </a>
--->
+
 <a href="https://twitter.com/Guuh_882YT">
   <img align="left" alt="MrPowerUp | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
