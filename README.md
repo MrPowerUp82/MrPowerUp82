@@ -14,6 +14,9 @@
     <a href="https://pypi.org/user/MrPowerUp/">
   <img align="left" alt="MrPowerUp | Pypi" width="22px" src="https://pypi.org/static/images/logo-small.2a411bc6.svg" />
 </a>
+    <a href="https://www.npmjs.com/~mrpowerup82">
+  <img align="left" alt="MrPowerUp | npmJS" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/npm.svg" />
+</a>
 <!-- <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> -->
