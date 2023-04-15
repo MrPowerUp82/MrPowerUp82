@@ -39,9 +39,11 @@
   <a href="https://github.com/MrPowerUp82?tab=followers">
     <img src="https://img.shields.io/github/followers/MrPowerUp82?style=for-the-badge" alt="GitHub badge" />
   </a>
+  <!-- 
   <a href="https://twitter.com/Guuh_882YT">
     <img src="https://img.shields.io/twitter/follow/Guuh_882YT?style=for-the-badge" />
   </a>
+-->
   <a href="https://www.youtube.com/channel/UC6JuvYDZgOoI83Qp9A8oEQQ?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC6JuvYDZgOoI83Qp9A8oEQQ?style=for-the-badge" />
   </a>
