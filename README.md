@@ -54,7 +54,7 @@
 <a href="https://github.com/MrPowerUp82/Eel-MusicPlayer-Python">PySound</a><br/>
 <a href="https://github.com/MrPowerUp82/hqdragondownloader_golang">HQDragonDownload GUI</a><br/>
 <a href="https://github.com/MrPowerUp82/filmaria-mobile">Filmaria</a><br/>
-<a href="https://github.com/MrPowerUp82/hqdragondownload">HQDragonDownload</a><br/>
+<a href="https://github.com/MrPowerUp82/hqdragondownload">HQDragonDownload CLI</a><br/>
 <a href="https://github.com/MrPowerUp82/python_itaushopline">Itaú Shopline</a>
 
 <hr/>
