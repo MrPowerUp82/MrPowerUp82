@@ -6,10 +6,10 @@
   <br/>
  <br/>
 <a href="https://twitter.com/Guuh_882YT">
-  <img align="left" alt="MrPowerUp | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="MrPowerUp | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />
 </a>
   <a href="https://www.youtube.com/channel/UC6JuvYDZgOoI83Qp9A8oEQQ">
-  <img align="left" alt="MrPowerUp | YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img align="left" alt="MrPowerUp | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />
 </a>
     <a href="https://pypi.org/user/MrPowerUp/">
   <img align="left" alt="MrPowerUp | Pypi" width="22px" src="https://pypi.org/static/images/logo-small.2a411bc6.svg" />
