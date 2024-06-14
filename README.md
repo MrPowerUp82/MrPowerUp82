@@ -14,7 +14,7 @@
   <img align="left" alt="MrPowerUp | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />
 </a>
     <a href="https://pypi.org/user/MrPowerUp/">
-  <img align="left" alt="MrPowerUp | Pypi" width="22px" src="https://pypi.org/static/images/logo-small.2a411bc6.svg" />
+  <img align="left" alt="MrPowerUp | Pypi" width="22px" src="https://pypi.org/static/images/logo-small.8998e9d1.svg" />
 </a>
     <a href="https://www.npmjs.com/~mrpowerup82">
   <img align="left" alt="MrPowerUp | npmJS" width="22px" src="https://user-images.githubusercontent.com/16657091/55263234-8b903300-522d-11e9-9926-44e4b3c17e0a.png" />
