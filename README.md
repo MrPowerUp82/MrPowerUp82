@@ -20,9 +20,9 @@
     <a href="https://www.npmjs.com/~mrpowerup82">
   <img align="left" alt="MrPowerUp | npmJS" width="22px" src="https://user-images.githubusercontent.com/16657091/55263234-8b903300-522d-11e9-9926-44e4b3c17e0a.png" />
 </a>
-<a href="https://www.linkedin.com/in/gustavo-henrique-da-silva-tramonte-3ba89320b/">
+<!-- <a href="https://www.linkedin.com/in/gustavo-henrique-da-silva-tramonte-3ba89320b/">
   <img align="left" alt="MrPowerUp82 LinkedIN" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" />
-</a>
+</a> -->
 
   <br/>
 <!-- <img align="center" alt="GIF" src="code.gif?raw=true" width="500" height="320" /> -->
