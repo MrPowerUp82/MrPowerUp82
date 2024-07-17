@@ -50,7 +50,7 @@
 <a href="https://github.com/MrPowerUp82/filmaria-mobile">Filmaria</a><br/>
 <!-- <a href="https://github.com/MrPowerUp82/hqdragondownload">HQDragonDownload CLI</a><br/> -->
 <a href="https://github.com/MrPowerUp82/python_itaushopline">Itaú Shopline</a>
-
 <hr/>
-
 <img src="https://github-readme-stats.vercel.app/api?username=MrPowerUp82&show_icons=true&theme=gotham" alt="MrPowerUp82" />
+<hr/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrPowerUp82)
