@@ -53,4 +53,4 @@
 <hr/>
 <img src="https://github-readme-stats.vercel.app/api?username=MrPowerUp82&show_icons=true&theme=gotham" alt="MrPowerUp82" />
 <hr/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrPowerUp82)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPowerUp82" alt="MrPowerUp82" />
