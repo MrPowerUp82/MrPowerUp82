@@ -42,6 +42,7 @@
   </a>
 </p>
 </div>
+  <hr/>
 <h2>Projetos</h2>
 <a href="https://github.com/MrPowerUp82/mcmanager">MC Server Manager</a><br/>
 <a href="https://github.com/MrPowerUp82/Eel-MusicPlayer-Python">PySound</a><br/>
@@ -57,6 +58,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrPowerUp82&theme=gotham" alt="MrPowerUp82"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPowerUp82&theme=gotham" alt="MrPowerUp82" />
 </div>
+<hr/>
 <p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/MrPowerUp82/count.svg" />
