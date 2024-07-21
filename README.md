@@ -5,6 +5,7 @@
 Portifólio
 </a>
 </h3>
+<br/>
 <a href="https://www.youtube.com/channel/UC6JuvYDZgOoI83Qp9A8oEQQ">
 <img align="left" alt="MrPowerUp | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />
 </a>
