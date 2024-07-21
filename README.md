@@ -69,6 +69,7 @@ Portifólio
 </div>
 <hr/>
 <p align="center">
-Visitor count<br>
+<b>Visitor count</b>
+<br/>
 <img src="https://profile-counter.glitch.me/MrPowerUp82/count.svg" />
 </p>
