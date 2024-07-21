@@ -20,6 +20,7 @@
 </a> -->
 
   <br/>
+  <br/>
 <img align="center" alt="GIF" src="code.gif?raw=true" width="500" height="320" />
   <h3>**Linguagens e Framework's:**</h3>
   
