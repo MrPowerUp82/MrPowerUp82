@@ -18,7 +18,7 @@ Portifólio
 <img align="left" alt="MrPowerUp | packagist" width="22px" src="https://packagist.org/img/logo-small.png" />
 </a>
 <br/>
-<br/>
+<!-- <br/> -->
 <!-- <img align="center" alt="GIF" src="code.gif?raw=true" width="500" height="320" /> -->
 
 ### Sistemas Operacionais
