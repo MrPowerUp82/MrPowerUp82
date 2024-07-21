@@ -54,6 +54,8 @@
 <hr/>
 <img src="https://github-readme-stats.vercel.app/api?username=MrPowerUp82&show_icons=true&theme=gotham" alt="MrPowerUp82" />
 <hr/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrPowerUp82&theme=gotham" alt="MrPowerUp82"/>
+<hr/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPowerUp82&theme=gotham" alt="MrPowerUp82" />
 <hr/>
 <p align="center">
