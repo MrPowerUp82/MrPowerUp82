@@ -52,12 +52,9 @@
 <!-- <a href="https://github.com/MrPowerUp82/hqdragondownload">HQDragonDownload CLI</a><br/> -->
 <a href="https://github.com/MrPowerUp82/python_itaushopline">Itaú Shopline</a>
 <hr/>
-<img src="https://github-readme-stats.vercel.app/api?username=MrPowerUp82&show_icons=true&theme=gotham" alt="MrPowerUp82" />
-<hr/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrPowerUp82&theme=gotham" alt="MrPowerUp82"/>
-<hr/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPowerUp82&theme=gotham" alt="MrPowerUp82" />
-<hr/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MrPowerUp82&show_icons=true&theme=gotham" alt="MrPowerUp82" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrPowerUp82&theme=gotham" alt="MrPowerUp82"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPowerUp82&theme=gotham" alt="MrPowerUp82" />
 <p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/MrPowerUp82/count.svg" />
