@@ -34,18 +34,25 @@ Portifólio
 
 ### Linguagens e Frameworks
 
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> -->
-<code><img height="20" src="https://camo.githubusercontent.com/0418a2bf25601cc5d8fae74f654b10d5734360ff2b1bb3b2fea4bb086baf5586/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/48a026f4399514afed27e76efb9f48e139a0ba4b613d933a8c7a094dc1da475c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667"></code>
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> -->
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> -->
-<code><img height="20" src="https://camo.githubusercontent.com/52ec9548f75773e7841dd77f89a654e8a0bc2cce02da2eb43f84240f50351512/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
+<div align="left">
+<!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> -->
+<code><img height="30" src="https://camo.githubusercontent.com/0418a2bf25601cc5d8fae74f654b10d5734360ff2b1bb3b2fea4bb086baf5586/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667"></code>
+<code><img height="30" src="https://camo.githubusercontent.com/48a026f4399514afed27e76efb9f48e139a0ba4b613d933a8c7a094dc1da475c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667"></code>
+<!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> -->
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
+<!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> -->
+<code><img height="30" src="https://camo.githubusercontent.com/52ec9548f75773e7841dd77f89a654e8a0bc2cce02da2eb43f84240f50351512/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code> -->
+<code><img height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOYo977x-i8yZ-AorCCkIUcYuJ8JW9LHigBFLe_UNLDPTw17JL5ihUKe3GQOtcbG_wmsc&usqp=CAU"></code>
+<!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code> -->
+<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDneBGnQL7E9hZDwztRO1GfQcCj1FqRrhBw&s"></code>
+<!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code> -->
+<code><img height="30" src="https://img.icons8.com/?size=100&id=UGYn5TapNioV&format=png&color=000000"></code>
+<code><img height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg"></code>
+</div>
+<br/>
 
 <p align="left">
 <a href="https://github.com/MrPowerUp82?tab=followers">
@@ -66,8 +73,8 @@ Portifólio
 
 <hr/>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MrPowerUp82&show_icons=true&theme=gotham" alt="MrPowerUp82" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrPowerUp82&theme=gotham" alt="MrPowerUp82"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MrPowerUp82&show_icons=true&theme=gotham" alt="MrPowerUp82" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPowerUp82&theme=gotham" alt="MrPowerUp82" />
 </div>
 <hr/>
