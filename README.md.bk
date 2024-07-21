@@ -1,7 +1,7 @@
 ## MrPowerUp
 
 <a href="https://mrpowerup82.github.io/">
-Portifólio
+<h3>Portifólio</h3>
 </a>
 <br/>
 <br/>  
@@ -18,8 +18,8 @@ Portifólio
 <img align="left" alt="MrPowerUp | packagist" width="22px" src="https://packagist.org/img/logo-small.png" />
 </a>
 <br/>
-<br/>
-<img align="center" alt="GIF" src="code.gif?raw=true" width="500" height="320" />
+<!-- <br/> -->
+<!-- <img align="center" alt="GIF" src="code.gif?raw=true" width="500" height="320" /> -->
 
 ### Sistemas Operacionais
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
