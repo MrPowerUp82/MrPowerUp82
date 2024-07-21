@@ -1,4 +1,4 @@
-## MrPowerUp
+# MrPowerUp
 
 <h3>
 <a href="https://mrpowerup82.github.io/">
@@ -52,13 +52,19 @@ Portifólio
 <img src="https://img.shields.io/youtube/channel/subscribers/UC6JuvYDZgOoI83Qp9A8oEQQ?style=for-the-badge" />
 </a>
 </p>
-<h2>Projetos</h2>
+<h3>Projetos</h3>
 <a href="https://github.com/MrPowerUp82/mcmanager">MC Server Manager</a><br/>
 <a href="https://github.com/MrPowerUp82/Eel-MusicPlayer-Python">PySound</a><br/>
 <a href="https://github.com/MrPowerUp82/cron-manager">Cron Manager</a><br/>
 <a href="https://github.com/MrPowerUp82/pyLegends">pyLegends</a><br/>
 <a href="https://github.com/MrPowerUp82/filmaria-mobile">Filmaria</a><br/>
 <a href="https://github.com/MrPowerUp82/python_itaushopline">Itaú Shopline</a>
+
+### Projetos
+- [MC Server Manager]("https://github.com/MrPowerUp82/mcmanager")
+- [PySound]("https://github.com/MrPowerUp82/Eel-MusicPlayer-Python")
+- [Cron Manager]("https://github.com/MrPowerUp82/cron-manager")
+
 <hr/>
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrPowerUp82&show_icons=true&theme=gotham" alt="MrPowerUp82" />
