@@ -19,7 +19,7 @@ Portifólio
 </a>
 <br/>
 <br/>
-<img align="center" alt="GIF" src="code.gif?raw=true" width="500" height="320" />
+<!-- <img align="center" alt="GIF" src="code.gif?raw=true" width="500" height="320" /> -->
 
 ### Sistemas Operacionais
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
