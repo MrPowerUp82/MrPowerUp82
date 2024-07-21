@@ -5,7 +5,6 @@
 Portifólio
 </a>
 </h3>
-<br/>
 
 ### Outros Perfis 
 
