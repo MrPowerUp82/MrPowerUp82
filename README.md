@@ -43,6 +43,7 @@
   <code><img height="30" width="30" alt="C++" title="C++" src="imagens/cpp.svg"></code>
   <code><img height="30" alt="Express" title="Express" src="imagens/express.svg"></code>
   <code><img height="30" alt="PHP" title="PHP" src="imagens/php.png"></code>
+  <code><img height="30" alt="FilamentPHP" title="FilamentPHP" src="imagens/filamentphp.png"></code>
   <code><img height="30" width="30" alt="TailwindCSS" title="TailwindCSS" src="imagens/tailwindcss.svg"></code>
   <code><img height="30" width="30" alt="MySQL" title="MySQL" src="imagens/mysql.svg"></code>
   <code><img height="30" width="30" alt="SQLite" title="SQLite" src="imagens/sqlite.svg"></code>
