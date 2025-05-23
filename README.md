@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm MrPowerUp</h1>
-<h2 align="center">⚡ Electrical and 💻 Software Engineer</h2>
+<h2 align="center">💻 Software and ⚡ Electrical Engineer</h2>
 
 <p align="center">
   <a href="https://mrpowerup82.github.io/"><strong>🌐 Portfólio</strong></a>
