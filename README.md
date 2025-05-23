@@ -1,85 +1,110 @@
-<h1 align="center"> Hi, I'm MrPowerUp</h1>
-<h2 align="center"> Software Engineer</h2>
+<h1 align="center">👋 Hi, I'm MrPowerUp</h1>
+<h2 align="center">💻 Software Engineer</h2>
 
-<h3>
-  <a href="https://mrpowerup82.github.io/">Portfólio</a>
-</h3>
+<p align="center">
+  <a href="https://mrpowerup82.github.io/"><strong>🌐 Portfólio</strong></a>
+</p>
 
-### Outros Perfis
+---
 
-<a href="https://www.youtube.com/channel/UC6JuvYDZgOoI83Qp9A8oEQQ">
-  <img align="left" alt="MrPowerUp | YouTube" width="22px" src="imagens/yt.png" />
-</a>
-<a href="https://pypi.org/user/MrPowerUp/">
-  <img align="left" alt="MrPowerUp | Pypi" width="22px" src="imagens/pypi.svg" />
-</a>
-<a href="https://www.npmjs.com/~mrpowerup82">
-  <img align="left" alt="MrPowerUp | npmJS" width="22px" src="imagens/npm.png" />
-</a>
-<a href="https://packagist.org/users/MrPowerUp/">
-  <img align="left" alt="MrPowerUp | packagist" width="22px" src="imagens/packagist.png" />
-</a>
-<br/>
-
-### Sistemas Operacionais
-
-![Linux](/imagens/linux.svg)
-![Manjaro](/imagens/manjaro.svg)
-![Debian](/imagens/debian.svg)
-![Ubuntu](/imagens/ubuntu.svg)
-![Kali](/imagens/kali_linux.svg)
-![Windows](/imagens/windows.svg)
-
-### Linguagens e Frameworks
-
-<div align="left">
-  <code><img height="30" alt="JavaScript" title="JavaScript" src="imagens/js.svg"></code>
-  <code><img height="30" alt="React" title="React" src="imagens/react.svg"></code>
-  <code><img height="30" alt="Laravel" title="Laravel" src="imagens/laravel.png"></code>
-  <code><img height="30" alt="Python" title="Python" src="imagens/python.svg"></code>
-  <code><img height="30" alt="Django" title="Django" src="imagens/django.svg"></code>
-  <code><img height="30" alt="NodeJS" title="NodeJS" src="imagens/nodejs.png"></code>
-  <code><img height="30" width="30" alt="Golang" title="Golang" src="imagens/golang.svg"></code>
-  <code><img height="30" width="30" alt="C++" title="C++" src="imagens/cpp.svg"></code>
-  <code><img height="30" alt="Express" title="Express" src="imagens/express.svg"></code>
-  <code><img height="30" alt="PHP" title="PHP" src="imagens/php.png"></code>
-  <code><img height="30" alt="FilamentPHP" title="FilamentPHP" src="imagens/filamentphp.png"></code>
-  <code><img height="30" width="30" alt="TailwindCSS" title="TailwindCSS" src="imagens/tailwindcss.svg"></code>
-  <code><img height="30" width="30" alt="MySQL" title="MySQL" src="imagens/mysql.svg"></code>
-  <code><img height="30" width="30" alt="SQLite" title="SQLite" src="imagens/sqlite.svg"></code>
-</div>
-<br/>
+### 🌐 Outros Perfis
 
 <p align="left">
-  <a href="https://github.com/MrPowerUp82?tab=followers">
-    <img src="https://img.shields.io/github/followers/MrPowerUp82?style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="https://www.youtube.com/channel/UC6JuvYDZgOoI83Qp9A8oEQQ?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC6JuvYDZgOoI83Qp9A8oEQQ?style=for-the-badge" />
+  <a href="https://www.youtube.com/channel/UC6JuvYDZgOoI83Qp9A8oEQQ">
+    <img alt="YouTube" width="26px" src="imagens/yt.png" />
+  </a>&nbsp;&nbsp;
+  <a href="https://pypi.org/user/MrPowerUp/">
+    <img alt="PyPI" width="26px" src="imagens/pypi.svg" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.npmjs.com/~mrpowerup82">
+    <img alt="npmJS" width="26px" src="imagens/npm.png" />
+  </a>&nbsp;&nbsp;
+  <a href="https://packagist.org/users/MrPowerUp/">
+    <img alt="Packagist" width="26px" src="imagens/packagist.png" />
   </a>
 </p>
 
-### Projetos
+---
 
-- [MC Server Manager](https://github.com/MrPowerUp82/mcmanager)
-- [PySound](https://github.com/MrPowerUp82/Eel-MusicPlayer-Python)
-- [Cron Manager](https://github.com/MrPowerUp82/cron-manager)
-- [pyLegends](https://github.com/MrPowerUp82/pyLegends)
-- [Filmaria](https://github.com/MrPowerUp82/filmaria-mobile)
-- [Itaú Shopline](https://github.com/MrPowerUp82/python_itaushopline)
+### 🖥️ Sistemas Operacionais
 
-<hr/>
+<p>
+  <img src="imagens/linux.svg" height="30" alt="Linux" />
+  <img src="imagens/manjaro.svg" height="30" alt="Manjaro" />
+  <img src="imagens/debian.svg" height="30" alt="Debian" />
+  <img src="imagens/ubuntu.svg" height="30" alt="Ubuntu" />
+  <img src="imagens/kali_linux.svg" height="30" alt="Kali Linux" />
+  <img src="imagens/windows.svg" height="30" alt="Windows" />
+</p>
+
+---
+
+### 💻 Linguagens e Frameworks
+
+<p>
+  <img src="imagens/js.svg" height="30" alt="JavaScript" />
+  <img src="imagens/react.svg" height="30" alt="React" />
+  <img src="imagens/laravel.png" height="30" alt="Laravel" />
+  <img src="imagens/python.svg" height="30" alt="Python" />
+  <img src="imagens/django.svg" height="30" alt="Django" />
+  <img src="imagens/nodejs.png" height="30" alt="NodeJS" />
+  <img src="imagens/golang.svg" height="30" alt="Golang" />
+  <img src="imagens/cpp.svg" height="30" alt="C++" />
+  <img src="imagens/express.svg" height="30" alt="Express" />
+  <img src="imagens/php.png" height="30" alt="PHP" />
+  <img src="imagens/filamentphp.png" height="30" alt="FilamentPHP" />
+  <img src="imagens/tailwindcss.svg" height="30" alt="TailwindCSS" />
+  <img src="imagens/mysql.svg" height="30" alt="MySQL" />
+  <img src="imagens/sqlite.svg" height="30" alt="SQLite" />
+</p>
+
+---
+
+### 📢 Badge Social
+
+<p align="left">
+  <a href="https://github.com/MrPowerUp82?tab=followers">
+    <img src="https://img.shields.io/github/followers/MrPowerUp82?style=for-the-badge" alt="GitHub Followers" />
+  </a>
+  <a href="https://www.youtube.com/channel/UC6JuvYDZgOoI83Qp9A8oEQQ?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC6JuvYDZgOoI83Qp9A8oEQQ?style=for-the-badge" alt="YouTube Subscribers" />
+  </a>
+</p>
+
+---
+
+### 🚀 Projetos em Destaque
+
+- 🔧 [MC Server Manager](https://github.com/MrPowerUp82/mcmanager)
+- 🎵 [PySound](https://github.com/MrPowerUp82/Eel-MusicPlayer-Python)
+- ⏱️ [Cron Manager](https://github.com/MrPowerUp82/cron-manager)
+- 🧠 [pyLegends](https://github.com/MrPowerUp82/pyLegends)
+- 🎬 [Filmaria](https://github.com/MrPowerUp82/filmaria-mobile)
+- 🏦 [Itaú Shopline](https://github.com/MrPowerUp82/python_itaushopline)
+
+---
+
+### 🐍 GitHub Contribution Snake
 
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrPowerUp82&theme=gotham" alt="MrPowerUp82" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrPowerUp82&show_icons=true&theme=gotham" alt="MrPowerUp82" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPowerUp82&theme=gotham" alt="MrPowerUp82" />
+  <img src="https://github.com/MrPowerUp82/MrPowerUp82/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-<hr/>
+---
+
+### 📊 Estatísticas GitHub
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrPowerUp82&theme=gotham" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MrPowerUp82&show_icons=true&theme=gotham" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPowerUp82&theme=gotham" />
+</div>
+
+---
 
 <p align="center">
-  <b>Contador de Visitas</b>
-  <br/>
+  <strong>📈 Contador de Visitas</strong><br/>
   <img src="https://profile-counter.glitch.me/MrPowerUp82/count.svg" />
 </p>
