@@ -82,6 +82,7 @@
 - 🎬 [Filmaria](https://github.com/MrPowerUp82/filmaria-mobile)
 - 🏦 [Itaú Shopline](https://github.com/MrPowerUp82/python_itaushopline)
 - ⌚️ [Omnitrix Tizen OS](https://github.com/MrPowerUp82/omnitrix-tizen-wearable)
+- 💾 [Filament SQL Field](https://github.com/MrPowerUp82/filament-sql-field)
 
 ---
 
