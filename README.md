@@ -108,10 +108,3 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPowerUp82&theme=gotham" />
 </div>
-
----
-
-<p align="center">
-  <strong>📈 Contador de Visitas</strong><br/>
-  <img src="https://profile-counter.glitch.me/MrPowerUp82/count.svg" />
-</p>
