@@ -66,18 +66,18 @@
 
 ## 📊 GitHub Stats
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MrPowerUp82&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrPowerUp82&theme=tokyonight&hide_border=true" />
+<img width="49%" alt="Profile Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrPowerUp82&theme=tokyonight" />
+<img width="49%" alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrPowerUp82&theme=tokyonight&utcOffset=-3" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPowerUp82&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+<img width="60%" alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrPowerUp82&theme=tokyonight" />
 
 ### 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=MrPowerUp82&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MrPowerUp82&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 ### 📈 Contribution Activity
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrPowerUp82&theme=tokyonight)
+![Contribution Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrPowerUp82&theme=tokyonight)
 
 </div>
 
@@ -166,11 +166,11 @@ Campo SQL customizado para Filament PHP
 
 ### 💡 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😄 Dev Joke of the Day
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true)
 
 ---
 
