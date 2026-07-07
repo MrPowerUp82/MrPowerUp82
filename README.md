@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="code.gif" width="360" alt="Coding animation" />
+<!-- <img align="right" src="code.gif" width="360" alt="Coding animation" /> -->
 
 - ⚡ Electrical Engineer turned **Full Stack Developer**
 - 🌎 Based in Brazil (UTC−3)
