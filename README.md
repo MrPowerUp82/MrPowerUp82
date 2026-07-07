@@ -11,6 +11,8 @@
 
 ---
 
+<div align="center">
+
 ## 🧑‍💻 About Me
 
 <!-- <img align="right" src="code.gif" width="360" alt="Coding animation" /> -->
@@ -23,6 +25,8 @@
 - 💬 Open to collaborating on interesting projects and innovative ideas!
 
 <br clear="right" />
+
+</div>
 
 ---
 
