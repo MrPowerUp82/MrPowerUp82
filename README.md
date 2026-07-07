@@ -1,8 +1,8 @@
 <div align="center">
-  
+
 # 👋 Hi, I'm **MrPowerUp**
 
-### 💻 Software Engineer | ⚡ Electrical Engineer | 🚀 Full Stack Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=520&lines=Software+Engineer;Electrical+Engineer;Full+Stack+Developer;Open+Source+Package+Author)](https://mrpowerup82.github.io/)
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mrpowerup82.github.io/)
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=MrPowerUp82&color=00D9FF&style=for-the-badge&label=Profile+Views)](https://github.com/MrPowerUp82)
@@ -11,16 +11,18 @@
 
 ---
 
-<div align="center">
+## 🧑‍💻 About Me
 
-## 🌐 Connect With Me
+<img align="right" src="code.gif" width="360" alt="Coding animation" />
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC6JuvYDZgOoI83Qp9A8oEQQ)
-[![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/MrPowerUp/)
-[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~mrpowerup82)
-[![Packagist](https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=packagist&logoColor=white)](https://packagist.org/users/MrPowerUp/)
+- ⚡ Electrical Engineer turned **Full Stack Developer**
+- 🌎 Based in Brazil (UTC−3)
+- 📦 I publish open source packages on [PyPI](https://pypi.org/user/MrPowerUp/), [npm](https://www.npmjs.com/~mrpowerup82) and [Packagist](https://packagist.org/users/MrPowerUp/)
+- 🎥 I share dev content on [YouTube](https://www.youtube.com/channel/UC6JuvYDZgOoI83Qp9A8oEQQ)
+- 🚀 Passionate about building tools that make developers' lives easier
+- 💬 Open to collaborating on interesting projects and innovative ideas!
 
-</div>
+<br clear="right" />
 
 ---
 
@@ -46,8 +48,8 @@
 ### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🖥️ Operating Systems
 
@@ -69,7 +71,8 @@
 <img width="49%" alt="Profile Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrPowerUp82&theme=tokyonight" />
 <img width="49%" alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrPowerUp82&theme=tokyonight&utcOffset=-3" />
 
-<img width="60%" alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrPowerUp82&theme=tokyonight" />
+<img width="49%" alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrPowerUp82&theme=tokyonight" />
+<img width="49%" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=MrPowerUp82&theme=tokyonight&hide_border=false" />
 
 ### 🏆 GitHub Trophies
 
@@ -92,7 +95,7 @@
 <td width="50%">
 
 ### 🔧 [MC Server Manager](https://github.com/MrPowerUp82/mcmanager)
-Gerenciador completo para servidores Minecraft
+Complete manager for Minecraft servers
 
 ![Stars](https://img.shields.io/github/stars/MrPowerUp82/mcmanager?style=social)
 
@@ -100,7 +103,7 @@ Gerenciador completo para servidores Minecraft
 <td width="50%">
 
 ### 🎵 [PySound](https://github.com/MrPowerUp82/Eel-MusicPlayer-Python)
-Music Player desenvolvido em Python + Eel
+Music player built with Python + Eel
 
 ![Stars](https://img.shields.io/github/stars/MrPowerUp82/Eel-MusicPlayer-Python?style=social)
 
@@ -110,7 +113,7 @@ Music Player desenvolvido em Python + Eel
 <td width="50%">
 
 ### ⏱️ [Cron Manager](https://github.com/MrPowerUp82/cron-manager)
-Interface web para gerenciar tarefas cron
+Web interface for managing cron jobs
 
 ![Stars](https://img.shields.io/github/stars/MrPowerUp82/cron-manager?style=social)
 
@@ -118,7 +121,7 @@ Interface web para gerenciar tarefas cron
 <td width="50%">
 
 ### 🧠 [pyLegends](https://github.com/MrPowerUp82/pyLegends)
-Biblioteca Python para League of Legends
+Python library for League of Legends
 
 ![Stars](https://img.shields.io/github/stars/MrPowerUp82/pyLegends?style=social)
 
@@ -128,7 +131,7 @@ Biblioteca Python para League of Legends
 <td width="50%">
 
 ### 🎬 [Filmaria](https://github.com/MrPowerUp82/filmaria-mobile)
-App mobile para busca de filmes
+Mobile app for searching movies
 
 ![Stars](https://img.shields.io/github/stars/MrPowerUp82/filmaria-mobile?style=social)
 
@@ -136,7 +139,7 @@ App mobile para busca de filmes
 <td width="50%">
 
 ### 💾 [Filament SQL Field](https://github.com/MrPowerUp82/filament-sql-field)
-Campo SQL customizado para Filament PHP
+Custom SQL field for Filament PHP
 
 ![Stars](https://img.shields.io/github/stars/MrPowerUp82/filament-sql-field?style=social)
 
@@ -174,12 +177,13 @@ Campo SQL customizado para Filament PHP
 
 ---
 
-### 📫 Let's Connect!
+## 📫 Let's Connect!
 
-**Open to collaborating on interesting projects and innovative ideas!**
-
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrPowerUp82)
-[![YouTube](https://img.shields.io/badge/Subscribe_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC6JuvYDZgOoI83Qp9A8oEQQ)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrPowerUp82)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC6JuvYDZgOoI83Qp9A8oEQQ)
+[![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/MrPowerUp/)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~mrpowerup82)
+[![Packagist](https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=packagist&logoColor=white)](https://packagist.org/users/MrPowerUp/)
 
 ---
 
